@@ -1,0 +1,163 @@
+{
+  "topics": [
+    {
+      "id": "alltag",
+      "name": "Alltag",
+      "icon": "🏠",
+      "flashcards": [
+        { "de": "der Supermarkt", "en": "supermarket" },
+        { "de": "einkaufen", "en": "to go shopping" },
+        { "de": "die Rechnung", "en": "bill / invoice" },
+        { "de": "der Termin", "en": "appointment" },
+        { "de": "aufräumen", "en": "to tidy up" },
+        { "de": "die Nachbarschaft", "en": "neighbourhood" },
+        { "de": "kochen", "en": "to cook" },
+        { "de": "der Alltag", "en": "everyday life" },
+        { "de": "pünktlich", "en": "on time" },
+        { "de": "das Gespräch", "en": "conversation" }
+      ],
+      "sentences": [
+        {
+          "words": ["I", "usually", "cook", "dinner", "at", "home"],
+          "solution": "I usually cook dinner at home."
+        },
+        {
+          "words": ["She", "goes", "to", "the", "supermarket", "every", "week"],
+          "solution": "She goes to the supermarket every week."
+        },
+        {
+          "words": ["My", "neighbour", "is", "very", "friendly"],
+          "solution": "My neighbour is very friendly."
+        },
+        {
+          "words": ["We", "have", "an", "appointment", "at", "three", "o'clock"],
+          "solution": "We have an appointment at three o'clock."
+        },
+        {
+          "words": ["He", "always", "arrives", "on", "time"],
+          "solution": "He always arrives on time."
+        }
+      ],
+      "freewriting": [
+        {
+          "prompt": "Beschreibe deinen typischen Morgen auf Englisch.",
+          "example": "I usually wake up at seven o'clock. First, I drink a cup of coffee. Then I take a shower and get dressed. I leave the house at eight."
+        },
+        {
+          "prompt": "Was machst du nach der Arbeit? Schreib 2–3 Sätze.",
+          "example": "After work, I usually go to the supermarket. Then I cook dinner and relax at home. Sometimes I call a friend or watch a film."
+        },
+        {
+          "prompt": "Beschreibe deine Wohngegend auf Englisch.",
+          "example": "I live in a quiet neighbourhood. There is a park nearby and a small supermarket on the corner. The people here are very friendly."
+        }
+      ]
+    },
+    {
+      "id": "reisen",
+      "name": "Reisen",
+      "icon": "✈️",
+      "flashcards": [
+        { "de": "der Flughafen", "en": "airport" },
+        { "de": "das Gepäck", "en": "luggage" },
+        { "de": "die Unterkunft", "en": "accommodation" },
+        { "de": "die Abfahrt", "en": "departure" },
+        { "de": "die Ankunft", "en": "arrival" },
+        { "de": "buchen", "en": "to book" },
+        { "de": "der Reisepass", "en": "passport" },
+        { "de": "die Verspätung", "en": "delay" },
+        { "de": "umsteigen", "en": "to change (trains/planes)" },
+        { "de": "der Aufenthalt", "en": "stay" }
+      ],
+      "sentences": [
+        {
+          "words": ["My", "flight", "departs", "at", "six", "in", "the", "morning"],
+          "solution": "My flight departs at six in the morning."
+        },
+        {
+          "words": ["I", "booked", "a", "hotel", "near", "the", "city", "centre"],
+          "solution": "I booked a hotel near the city centre."
+        },
+        {
+          "words": ["Please", "show", "me", "your", "passport"],
+          "solution": "Please show me your passport."
+        },
+        {
+          "words": ["The", "train", "has", "a", "delay", "of", "twenty", "minutes"],
+          "solution": "The train has a delay of twenty minutes."
+        },
+        {
+          "words": ["We", "need", "to", "change", "trains", "in", "Brussels"],
+          "solution": "We need to change trains in Brussels."
+        }
+      ],
+      "freewriting": [
+        {
+          "prompt": "Beschreibe deine letzte Reise (oder eine Traumreise) auf Englisch.",
+          "example": "Last summer I travelled to Portugal. I stayed in a small hotel near the beach. The weather was wonderful and the food was delicious."
+        },
+        {
+          "prompt": "Was packst du immer in deinen Koffer? Schreib 2–3 Sätze.",
+          "example": "I always pack my passport and some comfortable clothes. I also bring a book for the journey. Of course, I never forget my phone charger."
+        },
+        {
+          "prompt": "Beschreibe einen Flughafen oder Bahnhof auf Englisch.",
+          "example": "The airport was very busy. There were long queues at the check-in desk. I had to wait one hour before boarding."
+        }
+      ]
+    },
+    {
+      "id": "freizeit",
+      "name": "Freizeit",
+      "icon": "🎯",
+      "flashcards": [
+        { "de": "das Hobby", "en": "hobby" },
+        { "de": "spazieren gehen", "en": "to go for a walk" },
+        { "de": "das Konzert", "en": "concert" },
+        { "de": "sich ausruhen", "en": "to rest / to relax" },
+        { "de": "der Verein", "en": "club / association" },
+        { "de": "lesen", "en": "to read" },
+        { "de": "das Wochenende", "en": "weekend" },
+        { "de": "treffen (Freunde)", "en": "to meet (friends)" },
+        { "de": "draußen", "en": "outdoors / outside" },
+        { "de": "entspannen", "en": "to relax" }
+      ],
+      "sentences": [
+        {
+          "words": ["At", "the", "weekend", "I", "like", "to", "go", "for", "a", "walk"],
+          "solution": "At the weekend I like to go for a walk."
+        },
+        {
+          "words": ["She", "reads", "a", "book", "every", "evening"],
+          "solution": "She reads a book every evening."
+        },
+        {
+          "words": ["We", "often", "meet", "our", "friends", "on", "Saturdays"],
+          "solution": "We often meet our friends on Saturdays."
+        },
+        {
+          "words": ["I", "enjoy", "spending", "time", "outdoors"],
+          "solution": "I enjoy spending time outdoors."
+        },
+        {
+          "words": ["They", "went", "to", "a", "concert", "last", "Friday"],
+          "solution": "They went to a concert last Friday."
+        }
+      ],
+      "freewriting": [
+        {
+          "prompt": "Was machst du in deiner Freizeit am liebsten? Schreib 2–3 Sätze.",
+          "example": "In my free time I enjoy reading and going for walks. At the weekend I often meet my friends for coffee. Sometimes we go to the cinema or a concert."
+        },
+        {
+          "prompt": "Beschreibe ein perfektes Wochenende auf Englisch.",
+          "example": "My perfect weekend starts with a long sleep. Then I have breakfast outside and take a walk in the park. In the evening I relax at home with a good film."
+        },
+        {
+          "prompt": "Hast du ein Hobby? Erkläre es kurz auf Englisch.",
+          "example": "My hobby is photography. I take pictures of nature and people. I also edit the photos on my computer. It is a great way to be creative."
+        }
+      ]
+    }
+  ]
+}
